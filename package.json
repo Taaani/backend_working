@@ -1,0 +1,18 @@
+{
+  "name": "backend_coding",
+  "version": "1.0.0",
+  "description": "backend lerning second time",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0"
+  }
+}
